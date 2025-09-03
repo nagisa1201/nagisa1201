@@ -125,7 +125,7 @@
 
 <div align="center">
 <!-- metrics 基础资料 -->
-![Metrics](https://metrics.lecoq.io/insights/nagisa1201)
+![Metrics](./github-metrics.svg)
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
